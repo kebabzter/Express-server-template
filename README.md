@@ -1,2 +1,2 @@
 # Node-server-template
-A template for a node.js back-end server
+A template for an express back-end server
